@@ -1,10 +1,10 @@
-# YouTube Playlist Downloader
+# YouTube_Playlist_Download
 
 This Python script allows you to download videos from a YouTube playlist in 720p resolution. It uses the `pytube` library to interact with the YouTube API.
 
 ## Usage
 
-1. Run the script by executing `python script_name.py` in your terminal.
+1. Run the script by executing `youtube_playlist_download.py` in your terminal.
 2. Enter the YouTube Playlist URL when prompted.
 3. The script will download each video in the playlist with a 720p resolution and save them to the "downloads" directory.
 
@@ -15,7 +15,7 @@ Make sure to install the required dependencies using:
 ```bash
 pip install pytube
 
-# YouTube Video Downloader
+# Youtube_Download
 
 This Python script uses the `youtube_dl` library to download videos from YouTube. It provides a simple command-line interface for users to input the video URL and download the video with the best available quality.
 
