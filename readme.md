@@ -23,8 +23,8 @@ This Python script uses the `youtube_dl` library to download videos from YouTube
 
 ## Usage
 
-1. Run the script by executing `python script_name.py` in your terminal.
-2. Enter the YouTube video URL when prompted.
+1. Run the script by executing `youtube_download.py` in your terminal.
+2. Enter the YouTube video URL when prompted. **(It also works with some URLs other than YouTube.)
 3. The script will download the video with the best available quality and save it with the video's title as the file name.
 
 ## Dependencies
